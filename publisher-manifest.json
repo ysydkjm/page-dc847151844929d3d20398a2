@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5961355d3ed6b0a64b8044eb",
+  "owner": "ysydkjm",
+  "repo": "page-dc847151844929d3d20398a2",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dc847151844929d3d20398a2",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d5c20a643ca30aced2a68b080106110dd1fa1cc8e452d6b4fd7220a18074d0f3",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买 机场提供稳定VPN加速服务，基础版 ¥15/月，旗舰版 ¥35/月支持5台设备，官网下载客户端。解锁流媒体，游戏加速优化。",
+          "AI_DESCRIPTION": "TG号购买 机场提供稳定VPN加速服务，基础版 ¥15/月，旗舰版 ¥35/月支持5台设备，官网下载客户端。解锁流媒体，游戏加速优化。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:system-ui,-apple-system,sans-serif;background:#f8fafc;color:#1e2937;margin:0;padding:0;}main{max-width:900px;margin:0 auto;padding:20px 16px;}h1{color:#6b46c1;font-size:2.8em;margin-bottom:10px;}h2{color:#4f46e5;font-size:1.8em;margin:30px 0 15px;}p{font-size:1.05em;line-height:1.7;margin-bottom:20px;}ul,ol{padding-left:25px;margin-bottom:20px;}li{margin-bottom:8px;font-size:1.05em;} .plan-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;} .plan-card{background:#fff;border:2px solid #e2e8f0;border-radius:12px;padding:24px;box-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1);} .plan-card h3{font-size:1.4em;color:#6b46c1;margin:0 0 12px;} .plan-card .price{font-size:2.1em;font-weight:700;color:#1e2937;margin:10px 0;} .plan-card .annual{font-size:1em;color:#64748b;} .plan-card.featured{border-color:#6b46c1;box-shadow:0 0 0 3px rgba(107,70,193,0.1);} .plan-card.featured .price{color:#6b46c1;} .plan-card ul{list-style:none;padding:0;} .plan-card li{position:relative;padding-left:26px;margin-bottom:8px;} .plan-card li:before{content:\"✓\";color:#6b46c1;position:absolute;left:0;} .faq-grid{display:grid;grid-template-columns:1fr;gap:12px;} details{background:#fff;border:1px solid #e2e8f0;border-radius:8px;margin-bottom:12px;overflow:hidden;transition:box-shadow 0.2s;} details[open]{box-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1);} summary{padding:18px 20px;font-weight:600;color:#4f46e5;cursor:pointer;font-size:1.1em;} summary::-webkit-details-marker{display:none;} .answer{padding:0 20px 18px;color:#475569;font-size:1.02em;line-height:1.6;display:none;} details[open] .answer{display:block;} footer{background:#1e2937;color:#e2e8f0;padding:30px 20px;margin-top:60px;text-align:center;} footer a{color:#c4d0e3;text-decoration:none;} @media (max-width:640px){h1{font-size:2.4em;}} </style><main><h1>TG号购买</h1><h2>品牌简介</h2><p>TG号购买 提供专业的机场VPN加速器服务，专注于为用户带来稳定高速的网络体验。无论是在国内还是国际，我们的线路优化都能帮助您轻松突破地域限制，享受流畅的在线体验。</p><h2>使用场景</h2><p>适用于多种网络需求：</p><ul><li>多人在线游戏与视频会议</li><li>流媒体平台（如Netflix、YouTube）追剧解锁</li><li>跨境购物和远程办公</li><li>出国旅行时的网络加速</li><li>企业级数据传输与安全防护</li></ul><h2>操作说明</h2><ol><li>访问官网选择合适套餐</li><li>完成安全支付（支持多种支付方式）</li><li>通过官网下载最新客户端（支持多平台）</li><li>导入激活码或订阅链接</li><li>连接节点即可加速上网</li></ol><h2>套餐计划</h2><div class=\"plan-grid\"><div class=\"plan-card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card featured\"><h3>旗舰版 <span>推荐</span></h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan-card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><h2>常见问题</h2><div class=\"faq-grid\"><details><summary>什么是 TG号购买？</summary><div class=\"answer\">TG号购买 是一家专注于机场VPN加速器服务的平台，提供稳定高效的网络加速解决方案，帮助用户突破地域限制，提升上网速度。</div></details><details><summary>基础版套餐的主要特点是什么？</summary><div class=\"answer\">每月 100GB 极速流量，支持 3 台设备同时在线，解锁基础流媒体，普通线路节点池，适合日常使用。</div></details><details><summary>旗舰版的优势有哪些？</summary><div class=\"answer\">每月 300GB 极速流量，支持 5 台设备同时在线，全节点原生流媒体解锁，IPLC 专线游戏加速优化，7x24 优先工单支持，是高性价比的选择。</div></details><details><summary>团队版适合什么样的用户？</summary><div class=\"answer\">每月 1000GB 极速流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点，支持企业定制路由，专属客户经理服务，适合大型团队或企业用户。</div></details><details><summary>如何下载客户端？</summary><div class=\"answer\">请访问官网顶部导航栏，点击“客户端下载”链接，选择您的设备下载最新版本，安装后导入订阅信息即可使用。</div></details><details><summary>年付和月付哪个更划算？</summary><div class=\"answer\">年付更划算，按年付仅需基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相比月付可节省大量费用。</div></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><h3>友情链接</h3><p><a href=\"#\">其他机场平台</a> | <a href=\"#\">VPN教程分享</a></p><p>© 2024 TG号购买 机场. 版权所有</p></footer>",
+          "hash": "32859a458fec07080a7f5338f64f2c08f59c7d818df547f4c439149f0eb224ea",
+          "seo": {
+            "title": "TG号购买 机场VPN加速器 | 月付15元起 客户端下载",
+            "keywords": "TG号购买, 机场VPN, VPN加速器, 流量包, 客户端下载, 订阅",
+            "description": "TG号购买 机场提供稳定VPN加速服务，基础版 ¥15/月，旗舰版 ¥35/月支持5台设备，官网下载客户端。解锁流媒体，游戏加速优化。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "8s6400.cn",
+    "host": "p-410bb2318f.8s6400.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2e745db74867f548cd30cf37e691d1b683d5d58d6af0ac80ea059a232b1f1a83",
+    "sitemap.xml": "8c40a62af632a4c88ef1fd4824396abdec256b65e3b5c01e27db0a1510c859e3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e398a9ce26ab4b4f1b7f7eaf1e14fd99a74a982fa1917a2dbe194481efb2864c",
+    "robots.txt": "652fc1d13be1ece8c3c4af1f91ef2a18a33e202c56d155b51c103ae8c36516d6",
+    "c3d4e9f5697a60e34c18f60a8a5f51ca.txt": "f57c48293834977a0763201800380c41db48e2f22a9045fb5e13e8396dfa01a1"
+  },
+  "revision": "3f9a06adb24641efe6680c68a13b04abda568e89bfdd6a26174ba4ec534777bb"
+}
